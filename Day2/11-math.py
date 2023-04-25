@@ -1,0 +1,7 @@
+print(3+5)
+print(4*2)
+print(10/2)
+print(type(22-10))
+print(2**3)
+print(10/2*2)
+print(3*4+10/2-2)

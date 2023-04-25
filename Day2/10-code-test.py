@@ -1,0 +1,23 @@
+num = input("Enter any two digit number ")
+print(type(num[0]))
+print(type(num[1]))
+
+a=int(num[0])
+print(a)
+b=int(num[1])
+print(b)
+print(type(a),type(b))
+sum=(a+b)
+print(type(sum))
+# print("Total sum of two number is ", sum + " welcome")
+sum=str(sum)
+print("Total sum of two number is ", sum + " Welcome")
+
+# num_a = print(num[0])
+# num_b = print(num[1])
+# a=int(num_a)
+# b=int(num_b)
+# sum = print(a + b)
+
+# sum_new=print(str(sum))
+# print("Sum is = ", sum_new)

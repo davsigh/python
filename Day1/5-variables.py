@@ -1,0 +1,6 @@
+name = input("enter your name ")
+Phone = input("Enter your mobile Number ")
+print("Your name is", name )
+print("and your mobile number is ", Phone) 
+print("# of character: ", len(name))
+print("Mobile number lenght", len(Phone))
